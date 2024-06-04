@@ -14,14 +14,3 @@
 
 ## 🔗 Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-2D3033?style=for-the-badge&logo=Telegram)](https://t.me/Axazuki)
-
-### 💼 Problem solving experience
-[![ObjDet](https://img.shields.io/badge/Object%20DETECTION-2D3033?style=for-the-badge)]()
-
-![ImSegment](https://img.shields.io/badge/image%20segmentation-2D3033?style=for-the-badge)
-
-![object classification](https://img.shields.io/badge/object%20classification-2D3033?style=for-the-badge)
-
-![cGAN](https://img.shields.io/badge/condition%20Generative%20adversarial%20network%20-2D3033?style=for-the-badge)
-
-![Кластеризация через ГА](https://img.shields.io/badge/Genetic%20Clustering%20Algorithm-2D3033?style=for-the-badge)
