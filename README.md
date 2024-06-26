@@ -8,4 +8,4 @@
 ![Git](https://img.shields.io/badge/Git-2D3033?style=for-the-badge&logo=Git)
 
 ## 🔗 Connect with me
-[![Telegram](https://img.shields.io/badge/Telegram-2D3033?style=for-the-badge&logo=Telegram)](https://t.me/Axazuki)
+[![Telegram](https://img.shields.io/badge/Telegram-2D3033?style=for-the-badge&logo=Telegram)]([https://t.me/Axazuki](https://t.me/vs_zubkov))
